@@ -1,6 +1,8 @@
 # goit-markup-hw-01
 https://fochtified.github.io/goit-markup-hw-01/
 
+2022-13-20: (1) Actually FINALLY did what I meant below in the first part of comment; (2) ultimately decided to revert all changes regarding &lt;a&gt; tag swaps.
+
 2022-12-13: Removed e-mail & phone links from &lt;nav&gt; and &lt;adress&gt; tags; replaced &lt;a&gt; tags with &lt;span&gt; tags in &lt;header&gt;; made a slight reshuffling in &lt;header&gt; to establish valid sequence of succession between &lt;div&gt; and &lt;nav&gt; tags.
 
 Points of contension:
